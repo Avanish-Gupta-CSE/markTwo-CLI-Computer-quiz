@@ -1,4 +1,4 @@
-# MARKTWO
+# MARKTWO-CLI-Computer-Quiz
 
 This is a CLI Quiz using JavaScript on Computer.
 It takes answers as input from Users, and displays their Current Score and Final Score in the end.
